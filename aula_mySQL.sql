@@ -5,7 +5,7 @@
 create database if not exists exemplo;
 
  
--- CREATE database exemplo;
+-- CREATE database exem plo;
 CREATE DATABASE IF NOT EXISTS exemplo; 
 
 USE exemplo;
